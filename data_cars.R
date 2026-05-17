@@ -11,3 +11,8 @@ for (i in 1:n){
 }
 
 hist(mtcars$mpg)
+
+# Analisis Eksplorasi Data Cars
+summary(mtcars)
+head(mtcars)
+print("Halo, ini file dari Bu Faroh")
